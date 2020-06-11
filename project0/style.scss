@@ -52,6 +52,16 @@ ul > li { /* Child Selector */
     color: black;
 }
 
+.list-center {
+	display: inline-block;
+	text-align: left;
+}
+
+.aboutme-center {
+	text-align: center;
+}
+
+
 /* If the screen size is 600px or less, set the font-size of <div> to 30px */
 @media only screen and (max-width: 600px) {
   .header {
